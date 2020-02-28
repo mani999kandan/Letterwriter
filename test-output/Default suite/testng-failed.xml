@@ -7,7 +7,6 @@
         <methods>
           <include name="launchBrowser"/>
           <include name="f"/>
-          <include name="terminateBrowser"/>
         </methods>
       </class> <!-- scripts.NewTest -->
     </classes>
